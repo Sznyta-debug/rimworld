@@ -1,0 +1,1337 @@
+Mono path[0] = 'E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'E:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8135 MB
+    Driver:   31.0.21912.14
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.881 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.150800 ms
+RimWorld 1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Medieval Horse Plate Armour dependency (Owlchemist.AnimalGear.Equipment) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000257F086C020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000257F7899110.dll
+[HugsLib] version 11.0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] early-initializing AllowTool 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Medieval Overhaul v 1.5.18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionCustomizer is successfully initialized! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Dubs Skylight 1.5.2639 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Long Distance loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Peer Pressure v0.2.0.0] Mod initialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TKS_Ragdoll: Patching finished 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KB_Prioritize_Research] - patching to allow research prioritizing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <blocksPlants>true</blocksPlants> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="SprinkledFuelBase"><category>Building</category><thingClass>FuelBurning.Building_SprinkledFuel</thingClass><soundImpactDefault>MeleeHit_Metal_Sharp</soundImpactDefault><selectable>true</selectable><drawerType>MapMeshOnly</drawerType><terrainAffordanceNeeded>Light</terrainAffordanceNeeded><repairEffect>Repair</repairEffect><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled><filthLeaving>Filth_Ash</filthLeaving><statBases><SellPriceFactor>0.70</SellPriceFactor><Flammability>3.0</Flammability><WorkToBuild>20</WorkToBuild><Beauty>-5</Beauty><BurningTime>2</BurningTime><MaxHitPoints>2</MaxHitPoints></statBases><useHitPoints>true</useHitPoints><rotatable>false</rotatable><pathCost>0</pathCost><stealable>false</stealable><neverMultiSelect>true</neverMultiSelect><placeWorkers><li>FuelBurning.PlaceWorker_SprinkledFuel</li></placeWorkers><alwaysHaulable>false</alwaysHaulable><designateHaulable>false</designateHaulable><staticSunShadowHeight>0.02</staticSunShadowHeight><building><ai_chillDestination>false</ai_chillDestination><isInert>true</isInert><isEdifice>false</isEdifice><expandHomeArea>false</expandHomeArea><repairable>false</repairable><blueprintGraphicData><texPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Blueprint_Atlas</texPath></blueprintGraphicData></building><tradeNeverStack>true</tradeNeverStack><altitudeLayer>MoteLow</altitudeLayer><passability>Standable</passability><blockWind>false</blockWind><coversFloor>true</coversFloor><castEdgeShadows>false</castEdgeShadows><placingDraggableDimensions>2</placingDraggableDimensions><designationCategory>Security</designationCategory><blockLight>false</blockLight><blocksPlants>true</blocksPlants><canOverlapZones>true</canOverlapZones><tickerType>Normal</tickerType><defName>SprinkledFuelSmall</defName><label>Sprinkled fuel (diluted)</label><description>It burns up by slight impact, and burns out quickly. It can be used as a fuse.</description><fillPercent>0</fillPercent><graphicData><texPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Small_Atlas</texPath><graphicClass>Graphic_Single</graphicClass><shaderType>Transparent</shaderType><linkType>Basic</linkType><linkFlags><li>Custom4</li></linkFlags><drawSize>(1,1)</drawSize></graphicData><constructEffect>SprinklingOil_ShortTime</constructEffect><uiIconPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Small_MenuIcon</uiIconPath><costList><Chemfuel>1</Chemfuel></costList><size>(1,1)</size><comps><li Class="FuelBurning.CompProperties_FlammableLink"><compClass>FuelBurning.FlammableLinkComp</compClass><connectionID>1</connectionID><ignitionDef>Ignition_Small</ignitionDef></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <blocksPlants>true</blocksPlants> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="SprinkledFuelBase"><category>Building</category><thingClass>FuelBurning.Building_SprinkledFuel</thingClass><soundImpactDefault>MeleeHit_Metal_Sharp</soundImpactDefault><selectable>true</selectable><drawerType>MapMeshOnly</drawerType><terrainAffordanceNeeded>Light</terrainAffordanceNeeded><repairEffect>Repair</repairEffect><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled><filthLeaving>Filth_Ash</filthLeaving><statBases><SellPriceFactor>0.70</SellPriceFactor><Flammability>2.0</Flammability><WorkToBuild>75</WorkToBuild><Beauty>-10</Beauty><BurningTime>20</BurningTime><MaxHitPoints>15</MaxHitPoints></statBases><useHitPoints>true</useHitPoints><rotatable>false</rotatable><pathCost>10</pathCost><stealable>false</stealable><neverMultiSelect>true</neverMultiSelect><placeWorkers><li>FuelBurning.PlaceWorker_SprinkledFuel</li></placeWorkers><alwaysHaulable>false</alwaysHaulable><designateHaulable>false</designateHaulable><staticSunShadowHeight>0.02</staticSunShadowHeight><building><ai_chillDestination>false</ai_chillDestination><isInert>true</isInert><isEdifice>false</isEdifice><expandHomeArea>false</expandHomeArea><repairable>false</repairable><blueprintGraphicData><texPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Blueprint_Atlas</texPath></blueprintGraphicData></building><tradeNeverStack>true</tradeNeverStack><altitudeLayer>MoteLow</altitudeLayer><passability>Standable</passability><blockWind>false</blockWind><coversFloor>true</coversFloor><castEdgeShadows>false</castEdgeShadows><placingDraggableDimensions>2</placingDraggableDimensions><designationCategory>Security</designationCategory><blockLight>false</blockLight><blocksPlants>true</blocksPlants><canOverlapZones>true</canOverlapZones><tickerType>Normal</tickerType><defName>SprinkledFuelMedium</defName><label>Sprinkled fuel</label><description>This is a mixture of wood and fuel. It will burn well.</description><fillPercent>0</fillPercent><graphicData><texPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Medium_Atlas</texPath><graphicClass>Graphic_Single</graphicClass><linkType>Basic</linkType><shaderType>Transparent</shaderType><linkFlags><li>Custom4</li></linkFlags><drawSize>(1,1)</drawSize></graphicData><constructEffect>SprinklingOil_ShortTime</constructEffect><uiIconPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Medium_MenuIcon</uiIconPath><costList><Chemfuel>1</Chemfuel><WoodLog>1</WoodLog></costList><size>(1,1)</size><comps><li Class="FuelBurning.CompProperties_FlammableLink"><compClass>FuelBurning.FlammableLinkComp</compClass><connectionID>1</connectionID><ignitionDef>Ignition_Medium</ignitionDef></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <blocksPlants>true</blocksPlants> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="SprinkledFuelBase"><category>Building</category><thingClass>FuelBurning.Building_SprinkledFuel</thingClass><soundImpactDefault>MeleeHit_Metal_Sharp</soundImpactDefault><selectable>true</selectable><drawerType>MapMeshOnly</drawerType><terrainAffordanceNeeded>Light</terrainAffordanceNeeded><repairEffect>Repair</repairEffect><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled><filthLeaving>Filth_Ash</filthLeaving><statBases><SellPriceFactor>0.70</SellPriceFactor><Flammability>1.0</Flammability><WorkToBuild>220</WorkToBuild><Beauty>-15</Beauty><BurningTime>60</BurningTime><MaxHitPoints>45</MaxHitPoints></statBases><useHitPoints>true</useHitPoints><rotatable>false</rotatable><pathCost>20</pathCost><stealable>false</stealable><neverMultiSelect>true</neverMultiSelect><placeWorkers><li>FuelBurning.PlaceWorker_SprinkledFuel</li></placeWorkers><alwaysHaulable>false</alwaysHaulable><designateHaulable>false</designateHaulable><staticSunShadowHeight>0.02</staticSunShadowHeight><building><ai_chillDestination>false</ai_chillDestination><isInert>true</isInert><isEdifice>false</isEdifice><expandHomeArea>false</expandHomeArea><repairable>false</repairable><blueprintGraphicData><texPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Blueprint_Atlas</texPath></blueprintGraphicData></building><tradeNeverStack>true</tradeNeverStack><altitudeLayer>MoteLow</altitudeLayer><passability>Standable</passability><blockWind>false</blockWind><coversFloor>true</coversFloor><castEdgeShadows>false</castEdgeShadows><placingDraggableDimensions>2</placingDraggableDimensions><designationCategory>Security</designationCategory><blockLight>false</blockLight><blocksPlants>true</blocksPlants><canOverlapZones>true</canOverlapZones><tickerType>Normal</tickerType><defName>SprinkledFuelLarge</defName><label>Sprinkled fuel(concentrated)</label><description>It keeps burning for a long time but is hard to ignite. Sometimes it explodes when it burns.</description><fillPercent>0</fillPercent><graphicData><texPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Large_Atlas</texPath><graphicClass>Graphic_Single</graphicClass><shaderType>Transparent</shaderType><linkType>Basic</linkType><linkFlags><li>Custom4</li></linkFlags><drawSize>(1,1)</drawSize></graphicData><constructEffect>SprinklingOil_LongTime</constructEffect><uiIconPath>Things/Building/Linked/SprinkledFuels/SprinkledFuel_Large_MenuIcon</uiIconPath><costList><Chemfuel>2</Chemfuel><WoodLog>2</WoodLog></costList><size>(1,1)</size><comps><li Class="FuelBurning.CompProperties_FlammableLink"><compClass>FuelBurning.FlammableLinkComp</compClass><connectionID>1</connectionID><ignitionDef>Ignition_Large</ignitionDef></li><li Class="CompProperties_Explosive"><explosiveRadius>1.5</explosiveRadius><explosiveDamageType>Flame</explosiveDamageType><chanceNeverExplodeFromDamage>0.018</chanceNeverExplodeFromDamage></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SimplyMoreBridges: Found 7 materials to generate bridge-definitions for. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SimplyMoreBridges: Generated the following stony bridges: HeavyBridgeSandstone,DeepWaterBridgeSandstone,HeavyBridgeGranite,DeepWaterBridgeGranite,HeavyBridgeLimestone,DeepWaterBridgeLimestone,HeavyBridgeSlate,DeepWaterBridgeSlate,HeavyBridgeMarble,DeepWaterBridgeMarble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SimplyMoreBridges: Generated the following metal bridges: HeavyBridgeSteel,HeavyBridgePlasteel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SimplyMoreBridges: Generated the following woody bridges:  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Turret_RocketswarmLauncher: description has trailing whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Turret_RocketswarmLauncher: description has trailing whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Frame_Turret_RocketswarmLauncher: description has trailing whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimPy Mod Manager Database did not load any content. Following load folders were used:
+  - E:\SteamLibrary\steamapps\workshop\content\294100\1847679158 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Pirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef Pirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef Empire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef CannibalPirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef CannibalPirate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef PirateYttakin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef PirateYttakin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef PirateWaster 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef PirateWaster 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef VFEP_Junkers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef VFEP_Junkers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding trader pawngroupmaker to FactionDef VFEP_Mercenaries 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rim War: adding peaceful pawngroupmaker to FactionDef pphhyy_Barbarian_NonPlayerBarbTribe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load UnityEngine.Texture2D at Resources/WoodPlank in any active mod or in base resources. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Polish has 352 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Update: stable(ish) 1.5.0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, ASNeolithicBasketWoody, ASNeolithicBasketFabric, ASNeolithicHayPile, ASNeolithicLargePot, ASNeolithicMealShelf, ASNeolithicPlinthWoody, ASNeolithicTextileBundleFabric, ASNeolithicTextileBundleLeather, ASNeolithicWoodPile, ASF_CellarStone, ASF_CellarWood, ASF_CoveredClayPot, ASF_UncoveredClayPot, ASF_Granary, ASF_LargeLogPile, ASF_MeatRack, ASF_SmallLogPile, ASF_StoragePit, ASF_StorageTent, ASF_WeaponRack, ASF_WovenBasket, ASF_WovenBasketDouble, ASF_WovenBasketTriple, DankPyon_CultShelf, DankPyon_Bale1x2c, DankPyon_StrawBale1x2c, DankPyon_FlaxBale1x2c, DankPyon_HayBale2x2c, DankPyon_StrawBale2x2c, DankPyon_FlaxBale2x2c, DankPyon_HayPile1x2c, DankPyon_StrawPile1x2c, DankPyon_FlaxPile1x2c, DankPyon_WoodLogs1x1c, DankPyon_WoodLogs1x2c, DankPyon_WoodLogs2x2c, DankPyon_Timber1x1c, DankPyon_Timber1x2c, DankPyon_Timber2x2c, DankPyon_Bricks1x1c, DankPyon_Bricks1x2c, DankPyon_Bricks2x2c, DankPyon_IronIngots1x1c, DankPyon_IronIngots1x2c, DankPyon_IronIngots2x2c, DankPyon_SteelIngots1x1c, DankPyon_SteelIngots1x2c, DankPyon_SteelIngots2x2c, DankPyon_SilverIngots1x1c, DankPyon_SilverIngots1x2c, DankPyon_SilverIngots2x2c, DankPyon_GoldIngots1x1c, DankPyon_GoldIngots1x2c, DankPyon_GoldIngots2x2c, DankPyon_Plasteel1x1c, DankPyon_Plasteel1x2c, DankPyon_Plasteel2x2c, DankPyon_RusticCupboardEmpty, DankPyon_RusticCupboardBread, DankPyon_RusticCupboardCheese, DankPyon_RusticCupboardWine, DankPyon_RusticBarrelBigClosed, DankPyon_RusticBarrelBigGrape, DankPyon_RusticBarrelBigClosedDown, DankPyon_RusticBarrelStack, DankPyon_RusticBarrelClosed, DankPyon_BarrelWoodLog, DankPyon_BarrelIronOre, DankPyon_BarrelSilverOre, DankPyon_BarrelGoldOre, DankPyon_BarrelRawPlasteel, DankPyon_BarrelCoalOre, DankPyon_BarrelTextiles, DankPyon_BarrelLeather, DankPyon_BarrelComponentBasic, DankPyon_BarrelGrape, DankPyon_LargeShelfEmpty, DankPyon_LargeShelf_Bread, DankPyon_LargeShelf_Grain, DankPyon_Large_Meat_Shelf, DankPyon_LargeShelf_Cheese, DankPyon_LargeShelf_Wine, DankPyon_LargeShelf_Mead, DankPyon_LargeShelf_Vegetables, DankPyon_SackClosed, DankPyon_SackFlour, DankPyon_SackWheat, DankPyon_SackPotato, DankPyon_SackApple, DankPyon_BundledSack1x1c, DankPyon_BundledSack2x2c, DankPyon_Crate1x1c, DankPyon_Crate1x2c, DankPyon_Crate2x2c, DankPyon_Crate2x2_Bones, DankPyon_Crate2x2_Unhold, DankPyon_Crate2x2_Lindwurm, DankPyon_RackEmpty, DankPyon_RackSword, DankPyon_RackSpear, DankPyon_RackMixed, DankPyon_ShelfEmpty, DankPyon_ShelfFilled1c, DankPyon_ShelfFilled2c, DankPyon_ShelfFilledEmerald, DankPyon_ShelfFilledSapphire, DankPyon_ShelfFilledRuby, DankPyon_ShelfFilledSilverware, DankPyon_ShelfFilledGoldware, DankPyon_ShelfFilledChaliceSilver, DankPyon_ShelfFilledChaliceGold, DankPyon_ShelfFilledWine, DankPyon_ShelfFilledFood, DankPyon_ShelfFilledIngot, DankPyon_ShelfFilledBook, DankPyon_Shelf_AssortedHerbs, DankPyon_Shelf_GreenHerbs, DankPyon_Shelf_RedHerbs, DankPyon_Shelf_BattleElixir, DankPyon_Shelf_HappyPowder, DankPyon_Shelf_VigorPill, DankPyon_Shelf_AssortedDrugsA, DankPyon_Shelf_Stardust, DankPyon_Shelf_Luhix, DankPyon_Shelf_Paregoric, DankPyon_Shelf_AssortedDrugsB, DankPyon_Storage_Cart_Empty, DankPyon_Storage_Cart_Assorted, DankPyon_Storage_Cart_Ore, DankPyon_Storage_Cart_PlantRaw, DankPyon_Storage_Cart_Textiles, DankPyon_Storage_Cart_RawWood, DankPyon_IceCellar, DankPyon_TableMarket_Meats, DankPyon_TableMarket_Dairy, DankPyon_TableMarket_Bread, DankPyon_TableMarket_Herb, DankPyon_TableMarket_MeleeWeapons, DankPyon_TableMarket_Bow, DankPyon_Stall_Empty, DankPyon_Stall_Meats, DankPyon_Stall_Dairy, DankPyon_Stall_Bread, DankPyon_Stall_Herb, DankPyon_Stall_MeleeWeapons, DankPyon_Stall_Bow, VFES_AmmoCrate, ChangeDresser, Shelf_WeaponRack, ASNeolithicChunkStorageChunkSandstone, ASNeolithicChunkStorageChunkGranite, ASNeolithicChunkStorageChunkLimestone, ASNeolithicChunkStorageChunkSlate, ASNeolithicChunkStorageChunkMarble, ASNeolithicChunkStorageDankPyon_ChunkClay, ASNeolithicLargePotChunkSandstone, ASNeolithicLargePotChunkGranite, ASNeolithicLargePotChunkLimestone, ASNeolithicLargePotChunkSlate, ASNeolithicLargePotChunkMarble, ASNeolithicLargePotDankPyon_ChunkClay, ASNeolithicPlinthChunkSandstone, ASNeolithicPlinthChunkGranite, ASNeolithicPlinthChunkLimestone, ASNeolithicPlinthChunkSlate, ASNeolithicPlinthChunkMarble, ASNeolithicPlinthDankPyon_ChunkClay into Deep Storage 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KB_Prioritize_Research] - patching to allow research prioritizing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Medieval Overhaul: Royalty contains 2 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Alpha Memes contains 6 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FPSStabilier patched to 60 FPS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CozyFires]:Linked 8 cozy fires to 79 beds and chairs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+War Crimes Expanded 2 loaded! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] Initialized 2 SettingsMenuDef(s) and found 0 unused key(s) from 0 mod(s) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] 4388 total patches run in 19892ms, 0 failed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Walls are Solid - transpiler patched successfully. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MendingChangeDresserPatch did not find MendAndRecycle. Will not load patch. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#702963>Thek was here:</color> Guarding Pawns <color=#702963>loaded!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025B2AEDDE30.dll
+Ed86.NoCaravanAbandon patching maps: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RimWorld.Planet.MapParent 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RimWorld.Planet.CaravansBattlefield 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RimWorld.Planet.DestroyedSettlement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RimWorld.Planet.Settlement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RimWorld.Planet.Site 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RimWar.Planet.RimWarSite 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - LetsGoExplore.ShipCoreStartupSite 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RealRuins.AbandonedBaseWorldObject 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RealRuins.SmallRuinsWorldObject 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ - RealRuins.RealRuinsPOIWorldObject 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: RealRuins started patching at 3/9/2025 4:50:49 PM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: RealRuins performing manual patching optional mods at 3/9/2025 4:50:49 PM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: SRTS not found, skipping... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: RealRuins finished patching at 3/9/2025 4:50:49 PM (115.8403 msec) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Moździerz as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Wieżyczka gaśnicza as its projectile does not cause damage to health 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Trebuchet as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Field gun as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Artillery as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Searchlight as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Catapult as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of EMP cannon as its projectile does not cause damage to health 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TradingControl :: 23.3.24.19411  - #0 - Starting Harmony Patch... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TradingControl :: 23.3.24.19411  - #2 - Patching Toils (Job Manager) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TradingControl :: 23.3.24.19411  - #3 - Patching Orbital Drop Sites 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TradingControl :: 23.3.24.19411  - ## - Harmony Patches Applied 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TradingControl :: 23.3.24.19411  - ## - No further Patches detected.. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wall Light: v1.5.8874.26767 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Removed 405 spacer defs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RemoveSpacerStuff - Start Removal Log
+Tech Max Level = Industrial
+RecipeDef Removal List
+ResearchProjectDef Removal List
+- tarcze
+- kapsuła hibernacyjna
+- zbroja zwiadowcy
+- zbroja marine
+- strzał energetyczny
+- zamienniki bioniczne
+- podstawa statku
+- próżniowa kapsuła hibernacyjna
+- reaktor statku
+- napęd Johnson-Tanaka
+- imitacja osobowości
+- czujniki statku
+- zbroja katafrakta
+- implanty mózgowe
+- specjalne kończyny
+- broń kompaktowa
+- synteza trucizny
+- sztuczny metabolizm
+- komputacja neuronów
+- wzmacnianie skóry
+- wspomaganie leczenia
+- modelacja ciała
+- analiza molekularna
+- ingerencja w rytm dobowy
+- ultra mechtechnologia
+- filtracja toksyn
+- komora wzrostu
+- Glitterworld Autopsy
+- spacer warcaskets
+- spacer warcasket weaponry
+- pulse-charged defenses
+- railgun
+- EMP cannon
+- repulsor technology
+- Glitter road building
+- AISR2G
+- artificial ecosystems
+- Replicator
+Scenario Part Removal List
+- Otrzymaj na start Zestaw medyczny z glitterworld from Bogaty odkrywca
+- Otrzymaj na start Karabin pulsacyjny from Bogaty odkrywca
+- Otrzymaj na start Karabin pulsacyjny from Low orbit crash
+Stock Generator Part Cleanup
+- Zestaw medyczny z glitterworld from handlarz egzotycznym towarem's StockGenerator_SingleDef
+- Zestaw medyczny z glitterworld from handlarz egzotycznym towarem's StockGenerator_SingleDef
+- Zestaw medyczny z glitterworld from handlarz imperialny's StockGenerator_SingleDef
+ThingDef Removal List
+- Lucyferium
+- Neuroformer łącza PSI
+- Kapsuła hibernacyjna
+- Belka strukturalna statku
+- Kapsuła hibernacyjna statku
+- Rdzeń komputerowy statku
+- Reaktor statku
+- Silnik statku
+- Moduł czujników
+- Zwierzęcy pulser PSI
+- Łagodzący pulser PSI
+- Rdzeń osobowości
+- Serum leczące
+- Serum wskrzeszające
+- Technologiczny rdzeń osobowości
+- Zestaw medyczny z glitterworld
+- Głowica antymaterii
+- Pas aktywnej osłony
+- Hełm marine
+- Hełm zwiadowcy
+- Lanca wstrząsu PSI
+- Lanca obłędu PSI
+- Zbroja marine
+- Zbroja zwiadowcy
+- Wyrzutnia trój-rakietowa
+- Wyrzutnia rakiet kataklizmu
+- Ciężki blaster pulsacyjny
+- Działo inferno
+- Iglarka
+- Karabin pulsacyjny
+- Lanca pulsacyjna
+- Oznacznik bombardowania orbitalnego
+- Oznacznik orbitalnego działa inferno
+- Generator tornada
+- Działo uderzeniowe
+- Lekki miotacz energetyczny
+- Działo inferno
+- Rdzeń tarczy
+- Elteksowy hełm
+- Elteksowa jarmułka
+- Elteksowa koszulka
+- Elteksowa kamizelka
+- Elteksowa szata
+- Prestiżowa zbroja zwiadowcy
+- Prestiżowy hełm zwiadowcy
+- Prestiżowa zbroja marine
+- Prestiżowy hełm marine
+- Zbroja katafrakta
+- Hełm katafrakta
+- Prestiżowa zbroja katafrakta
+- Prestiżowy hełm katafrakta
+- Zbroja szarańczy
+- Zbroja grenadiera
+- Zbroja feniksa
+- Gunlink
+- Monoostrze z osobowością
+- Młot zeusa z osobowością
+- Ostrze plazmowe z osobowością
+- Monoostrze
+- Młot zeusa
+- Ostrze plazmowe
+- Oznacznik lądowania gromady mechów
+- Elteksowa laska
+- mechlink
+- subłącze kontrolne (standardowe)
+- subłącze kontrolne (zaawansowane)
+- zdalny naprawiacz
+- procesor tworzenia mechów
+- zdalna osłona
+- sonda naprawcza
+- komora wzrostu
+- zestaw łączności
+- zestaw matrycowy
+- hełm integratora
+- hełm komandora mechów
+- hełm mechlorda
+- pakiet kontrolny
+- pakiet przepustowości
+- kombinezon mechlorda
+- piekielna armata
+- mini-strzelba
+- działo na toksyczne igły
+- needle launcher
+- psyring
+- heat pearls
+- warcasket charge lance
+- warcasket charge blaster
+- siegebreaker warcasket helmet
+- guardian warcasket helmet
+- controller warcasket helmet
+- sarcophagus warcasket helmet
+- brute warcasket helmet
+- privateer armor
+- siegebreaker warcasket
+- siegebreaker warcasket shoulders
+- guardian warcasket
+- guardian warcasket shoulders
+- controller warcasket
+- controller warcasket shoulders
+- sarcophagus warcasket
+- sarcophagus warcasket shoulders
+- brute warcasket
+- brute warcasket shoulders
+- mini-blaster
+- deployable barrier
+- charge complex
+- small shield generator
+- large shield generator
+- archotech shield generator
+- charge turret
+- charge railgun
+- EMP cannon
+- AISR2G
+- AISR2G
+- ressurector belt
+- ambrandy (awful)
+- ambrandy (poor)
+- ambrandy (normal)
+- ambrandy (good)
+- ambrandy (excellent)
+- ambrandy (masterwork)
+- ambrandy (legendary)
+- ergonomic bed
+- ergonomic double bed
+- cryptosleep suspender
+- artificial ecosystem
+- tilable artificial ecosystem
+- Hololock
+- Holokey
+- trener umiejętności (strzelectwo)
+- trener umiejętności (walka wręcz)
+- trener umiejętności (budownictwo)
+- trener umiejętności (górnictwo)
+- trener umiejętności (gotowanie)
+- trener umiejętności (uprawa)
+- trener umiejętności (zwierzęce)
+- trener umiejętności (rzemieślnictwo)
+- trener umiejętności (sztuka)
+- trener umiejętności (medyczne)
+- trener umiejętności (społeczne)
+- trener umiejętności (intelektualne)
+- trener PSI (word of trust)
+- trener PSI (word of productivity)
+- trener PSI (blinding pulse)
+- trener PSI (word of alliance)
+- trener PSI (group link)
+- trener PSI (word of pain)
+- trener PSI (mind break)
+- trener PSI (word of protection)
+- trener PSI (drain psyessence)
+- trener PSI (mass hallucination)
+- trener PSI (burden)
+- trener PSI (stun)
+- trener PSI (psychic shock)
+- trener PSI (neural heat dump)
+- trener PSI (berserk)
+- trener PSI (aggressive heat dump)
+- trener PSI (berserk pulse)
+- trener PSI (psychic drone)
+- trener PSI (neural heat detonation)
+- trener PSI (neuroquake)
+- trener PSI (plant timeskip)
+- trener PSI (timeskip meditation)
+- trener PSI (word of foretelling)
+- trener PSI (craft timeskip)
+- trener PSI (age)
+- trener PSI (raid pause)
+- trener PSI (season timeskip)
+- trener PSI (time sphere)
+- trener PSI (time reversal)
+- trener PSI (timequake)
+- trener PSI (flameball)
+- trener PSI (self explosion)
+- trener PSI (explosion)
+- trener PSI (fire shield)
+- trener PSI (breathe flame)
+- trener PSI (eye blast)
+- trener PSI (extinguish flames)
+- trener PSI (meteor shower)
+- trener PSI (fire beam)
+- trener PSI (fire tornado)
+- trener PSI (word of joy)
+- trener PSI (word of love)
+- trener PSI (word of serenity)
+- trener PSI (word of inspiration)
+- trener PSI (psychic sooth (male))
+- trener PSI (psychic sooth (female))
+- trener PSI (bliss)
+- trener PSI (energy dump)
+- trener PSI (mind wipe)
+- trener PSI (reunion farskip)
+- trener PSI (breathe ice)
+- trener PSI (ice spike)
+- trener PSI (ice shield)
+- trener PSI (frost ray)
+- trener PSI (ice crystal)
+- trener PSI (cold zone)
+- trener PSI (ice block)
+- trener PSI (snap freeze)
+- trener PSI (ice wall)
+- trener PSI (blizzard)
+- trener PSI (mind control)
+- trener PSI (psychic guidance)
+- trener PSI (transmute stone)
+- trener PSI (heat focus)
+- trener PSI (luck transfer)
+- trener PSI (bend probability)
+- trener PSI (location swap)
+- trener PSI (health swap)
+- trener PSI (transmutation)
+- trener PSI (skillroll)
+- trener PSI (word of fear)
+- trener PSI (liferot)
+- trener PSI (steal vitality)
+- trener PSI (paralysis pulse)
+- trener PSI (corpsetalk)
+- trener PSI (ghostwalk)
+- trener PSI (consume bodies)
+- trener PSI (deathshield)
+- trener PSI (enthrall)
+- trener PSI (resurrect)
+- trener PSI (darkvision)
+- trener PSI (darkness)
+- trener PSI (obscure)
+- trener PSI (eclipse)
+- trener PSI (shadowskip)
+- trener PSI (decoy)
+- trener PSI (shadowfocus)
+- trener PSI (intensify shadows)
+- trener PSI (assassinate)
+- trener PSI (nightstep)
+- trener PSI (painblock)
+- trener PSI (word of healing)
+- trener PSI (stabilize)
+- trener PSI (word of immunity)
+- trener PSI (overshield)
+- trener PSI (focus)
+- trener PSI (skipshield)
+- trener PSI (invisibility)
+- trener PSI (regrow limbs)
+- trener PSI (guardian skipbarrier)
+- trener PSI (solar pinhole)
+- trener PSI (chunk skip)
+- trener PSI (waterskip)
+- trener PSI (chaos skip)
+- trener PSI (skip)
+- trener PSI (wall raise)
+- trener PSI (smokepop)
+- trener PSI (mass chaos skip)
+- trener PSI (skipdoor)
+- trener PSI (farskip)
+- trener PSI (bolt)
+- trener PSI (chain bolt)
+- trener PSI (thunderbolt)
+- trener PSI (static aura)
+- trener PSI (recharge)
+- trener PSI (ball lightning)
+- trener PSI (static pulse)
+- trener PSI (vortex)
+- trener PSI (hurricane)
+- trener PSI (flashstorm)
+- trener PSI (enchant quality)
+- trener PSI (mend)
+- trener PSI (conjure heat pearls)
+- trener PSI (haywire)
+- trener PSI (power)
+- trener PSI (rock construct)
+- trener PSI (steel construct)
+- trener PSI (craft psyring)
+- trener PSI (word of progress)
+- trener PSI (reverse engineer)
+- trener PSI (speedboost)
+- trener PSI (blade focus)
+- trener PSI (firing focus)
+- trener PSI (power leap)
+- trener PSI (adrenaline rush)
+- trener PSI (controlled frenzy)
+- trener PSI (guided shot)
+- trener PSI (beckon)
+- trener PSI (killskip)
+- trener PSI (mass beckon)
+- trener PSI (bramble maze)
+- trener PSI (crop burst)
+- trener PSI (word of animals)
+- trener PSI (manhunter pulse)
+- trener PSI (tree sprout)
+- trener PSI (shield animals)
+- trener PSI (animal allies)
+- trener PSI (shrineshield)
+- trener PSI (essence transfer)
+- trener PSI (summon pack)
+ThingSetMaker Reset
+Designators Resolved Again
+PawnKindDef Removal List
+- grenadier
+- grenadier EMP
+- grenadier dymny
+- najemny strzelec
+- najemny strzelec
+- najemny snajper
+- najemny snajper
+- najemny łupieżca
+- najemny łupieżca
+- ciężki najemnik
+- szef
+- elitarny najemnik
+- elitarny najemnik
+- włóczęga
+- padlinożerca
+- śmieciarz
+- pirat
+- starożytny żołnierz
+- termit
+- wij
+- wij grenadier
+- wij spalacz
+- włóczniarz
+- kosiarz
+- pikinier
+- helota
+- śmieciarz-strzelec
+- szlachtownik-śmieciarz
+- elitarny śmieciarz
+- grenadier
+- ciężki śmieciarz
+- król wysypiska
+- piracki strzelec
+- strzelec-szabrownik
+- drifter
+- scavenger thrasher
+- mercenary gunner
+- heavy mercenary
+- mercenary slasher
+- mercenary sniper
+- elite mercenary
+- tuneler
+- komiliton
+- bot noszący
+- konstruktoid
+- produktoid
+- agrobot
+- bot porządkowy
+- miot bojowy
+- medykobot
+- legionista
+- tesseron
+- spopielacz
+- apokryt
+- centurion
+- watażka
+- diabolus
+- private
+- corporal
+- sergeant
+- sergeant major
+- lieutenant
+- captain
+- major
+- general
+- general
+FactionDef Removal List
+- neutralni starożytni
+- wrodzy starożytni
+- Gniazdo mechanoidów
+- gang piratów
+- piracki gang kanibali
+- piraci yttakin
+- piraci ksenoludzie
+- sanguofagi
+- mercenaries
+- przybyła karawana zbieracza trybutów
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Dynamic Diplomacy] DD loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type PawnColumnWorker_AssignOutfit probably needs a StaticConstructorOnStartup attribute, because it has a field SortingIcon of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF successfully applied 54 patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Starting patches: 2312 - 3/9/2025 4:52:35 PM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 initializing... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+updating labels for polish... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+loading pawn slot content from file... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+character editor instance created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+bodysizes genes are active 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 ...done 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul" 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] initializing RimWar, Autopsy, ImprovedWorkbenches, ChangeMapEdge, com.github.alandariva.moreplanning, RealRuins, RunAndGun, TerraformRimworld 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE is trying to create default parameter lists ... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for genes... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+267 default entities for genes created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for objects... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+3993 default entities for objects created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for turrets... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+34 default entities for turrets created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+...lists created 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE is trying to apply modified parameters... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+no modifications for genes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+no modifications for objects 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+no modifications for lifestages 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+...done 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ShowMeYourHands]: Defined hand definitions of 173 weapons 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KB_Prioritize_Research] - patching to allow research prioritizing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+Could not load UnityEngine.Texture2D at UI/NoTaintedIcon in any active mod or in base resources. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+UnloadTime: 22.480500 ms
+
+Unloading 640 unused Assets to reduce memory usage. Loaded Objects now: 50586.
+Total: 1705.729900 ms (FindLiveObjects: 141.178700 ms CreateObjectMapping: 12.637600 ms MarkObjects: 1549.342500 ms  DeleteObjects: 2.570900 ms)
+
+Loading game from file giggleshitter with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - LWM.DeepStorage
+  - adaptive.storage.framework
+  - adaptive.storage.neolithic
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - jecrell.doorsexpanded
+  - UnlimitedHugs.HugsLib
+  - Torann.RimWar
+  - Smuffle.HarvestOrgansPostMortem
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - syrchalis.processor.framework
+  - Adaptive.PrimitiveStorage
+  - VanillaExpanded.VTEXE
+  - OskarPotocki.VFE.Tribals
+  - vanillaexpanded.outposts
+  - Aoba.Fortress.Medieval.Material
+  - DankPyon.Medieval.Overhaul
+  - Ogam.Rimedieval
+  - VanillaExpanded.VPsycastsE
+  - Accurex.MedievalEmpireOverhaul
+  - Scurvyez.FirefliesTwo
+  - azravos.factioncustomizer
+  - notfood.FrameRateControl
+  - matvey24.FPSStabilizer
+  - Shenanigans.TribalTattoos
+  - CozyFire.Velcroboy333
+  - rupal.rimpymodmanagerdatabase
+  - ivelischt.RimWorld.uncooledRice
+  - Mlie.MoreFactionInteraction
+  - Mersid.WCE2Updated.Core
+  - RealRanch.velcroboy333
+  - OskarPotocki.VFE.Pirates
+  - Sarg.AlphaMemes
+  - Mlie.ShowMeYourHands
+  - imranfish.xmlextensions
+  - Victor.WallsAreSolid
+  - VanillaExpanded.VFESecurity
+  - FrozenSnowFox.BetterSpikeTraps
+  - FrozenSnowFox.MoreQuests
+  - changedresser.kv.rw
+  - alt4s.AlliesAreHelpful
+  - UnlimitedHugs.AllowTool
+  - Chad.Almostthere1.5
+  - Aoba.Tent
+  - TribalCrib.Mod
+  - Mlie.TribalSignalFire
+  - Aoba.Fortress.Neolithic
+  - zal.vfetmodpatches
+  - xrushha.AnimaGear
+  - lke.ApplyPressure
+  - ben.automaticnightowl
+  - bolphen.avatar
+  - ILuvSilicon.BasicMedicine2
+  - Meltup.BeautifulOutdoors
+  - nephlite.advexplosions
+  - HappyBodi.BetterMultiAnalyzers
+  - falconne.BWM
+  - RadZerp.naturalPaths
+  - Fuu.BloodAnimations
+  - Uuugggg.BuildFromInventory
+  - cyanobot.buildfromchunk
+  - Fluffy.Blueprints
+  - dhultgren.buryonthespot
+  - xrushha.BuyablePsylinkNeuroformers
+  - Leonapp.CarcinomaSpreads
+  - kapitanoczywisty.changemapedge
+  - void.charactereditor
+  - Vakaria.ChillOutBodyPurist
+  - ac.chooseyourenemybase
+  - Mlie.ClimateCyclePlusPlus
+  - avilmask.CommonSense
+  - Dragon.CraftablePsylinkNeuroformers
+  - iexist.crossbows
+  - Merthsoft.DesignatorShapes
+  - Dubwise.DubsBreakMod
+  - Dubwise.DubsPaintShop
+  - Dubwise.DubsSkylights
+  - EdB.PrepareCarefully
+  - Ogliss.Mythos.ExtendedHumanBodySimulation
+  - Mlie.ExtendedSurgery
+  - Aoba.Fortress.Medieval
+  - Mlie.FoodPoisoningStackFix
+  - sarg.giddyupsaddles
+  - Mlie.FuelBurning
+  - Albion.GoExplore
+  - Thek.GuardingP
+  - Tory.Icons.Historical
+  - 400.ImpassableHChestUdeepHWater
+  - Haecriver.InjuredCarry
+  - jecrell.jecstools
+  - brrainz.justignoremepassing
+  - dhultgren.keepbedownership
+  - Mlie.LargeFactionBases
+  - Mlie.LiveWithThePain
+  - BDew.LongDistance
+  - com.github.alandariva.moreplanning
+  - Jiopaba.Fences
+  - Jdalt.NMLDT
+  - zylle.NoStartingResearch
+  - zyxabacab.NoSympathyForPrisoners
+  - Ed86.NoCaravanAbandon
+  - tiagocc0.notainted
+  - Murmur.PawnNameVariety
+  - joseasoler.peerpressure
+  - Taranchuk.PerformanceOptimizer
+  - Mehni.PickUpAndHaul
+  - Peppsen.PMusic
+  - Lakuna.PrepareModerately
+  - tk421storm.Ragdoll
+  - Woolstrand.RealRuins
+  - Mlie.RelevantStatsInDescription
+  - xrushha.RechargeableBroadshieldPack
+  - roolo.RunAndGun
+  - Mlie.RoadsOfTheRim
+  - PeteTimesSix.SimpleSidearms
+  - ray1203.SimpleCameraSetting
+  - Mlie.SimplyMoreBridges
+  - Mlie.SlopedWalls
+  - sarg.smartspeed
+  - cyanobot.TalkingIsntEverything
+  - GodlyAnnihilator.TheLowCooler
+  - Murmur.ThickRoofMiner
+  - TradingControl.Tad.Rimworld.Core
+  - leafzxg.ThrumboExtension
+  - smashphil.dropspot
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - VanillaExpanded.VAEEndAndExt
+  - VanillaExpanded.VAERoy
+  - VanillaExpanded.VAEWaste
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VAEAccessories
+  - VanillaExpanded.VanillaAspirationsExpanded
+  - VanillaExpanded.VanillaBackstoriesExpanded
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VMemesE
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VPlantsEMore
+  - VanillaExpanded.VPlantsEMushrooms
+  - VanillaExpanded.VPlantsESucculents
+  - 7H28J.dirtpaths
+  - VanillaExpanded.VanillaTraitsExpanded
+  - neronix17.embrasures
+  - VanillaExpanded.VWETB
+  - Luneyl.Bamboo
+  - alt4s.VisitSettlements
+  - Murmur.WallLight
+  - VSE.PerryPersistent
+  - Mlie.RemoveSpacerStuff
+  - Sl4vP0weR.WeAreUnited
+  - kikohi.whatsforsale
+  - FunkyShit.Mods.WorldEdit
+  - KB.PrioritizeResearch
+  - JangoDsoul.SimpleStorage
+  - Gaon.LowToolCabinet
+  - NunahurAlShamikh.MedP
+  - void.terraformrimworld
+  - nilchei.dynamicdiplomacycontinued
+  - rim.job.world
+  - Mewn.Extra.Signs
+  - pphhyy.BarbariansMOSubmod
+  - SarahLambar.VOEMOPatch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Finished transpiling 2312 methods - 3/9/2025 4:53:33 PM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CameraSetting Applied 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human203241 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/snobs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_26 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_27 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_28 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(, kind=Hostile) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human33255 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_DankPyon_Apparel_Leather_Tunic33256 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Apparel_Pants33257 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Apparel_BasicShirt33258 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_DankPyon_Apparel_FullPlateGilded33259 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_DankPyon_Footwear_BootsLeather33260 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_DankPyon_Handwear_GlovesLeather33261 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_DankPyon_Ring_Onyx33262 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_DankPyon_Necklace_Jade33263 of type RimWorld.Apparel. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=ChangeDresser.ApparelColorTracker+ApparelColor curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human33255 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human33255 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn Légua has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn Jordy has relation "Parent" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn DeMarcus has relation "Parent" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_ReplicatorPrototyp and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_MountainsEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_TectonicEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_FloraEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_MineralEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_RockEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_TerraEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Hash collision between Blueprint_Install_WeatherEmiter and  Blueprint_Install_Zombrella: both have short hash 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TEST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+bodysizes genes are active 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+<color=#66FF8CFF>[Fireflies 2.0] </color>Sùṗṗòṟṭèð þìòṁèș Ƒòṟ ƑìṟèƑſý șṗàẅƞìƞğ: BorealForest, TemperateForest, TemperateSwamp, TropicalRainforest, AridShrubland, Desert, ExtremeDesert, DankPyon_AncientForest, DankPyon_DarkForest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 65187.
+Total: 1663.744200 ms (FindLiveObjects: 5.183300 ms CreateObjectMapping: 6.843700 ms MarkObjects: 1651.456200 ms  DeleteObjects: 0.260900 ms)
+
